@@ -79,7 +79,7 @@ project-root/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/book-review-api.git
+git clone https://github.com/Yashgurav002/book-review-api.git
 cd book-review-api
 ```
 
@@ -106,6 +106,8 @@ npm run dev
 ---
 
 ## 🔍 Example API Requests (Postman or curl)
+
+ Use the included book-review-api.postman_collection.json file to test all endpoints in Postman quickly. Just import it into Postman and set your token and variables as needed.
 
 ### Signup
 
