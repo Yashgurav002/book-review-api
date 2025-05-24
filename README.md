@@ -191,11 +191,3 @@ Authorization: Bearer <token>
 * rating: Number (1-5)
 
 ---
-
-## 📤 Submission
-
-* All endpoints are tested using Postman (collection JSON included)
-* Code is modular, clean, and follows best practices
-* This README outlines setup, usage, and API structure for reviewers
-
-✅ Project Completed
